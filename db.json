@@ -1,7 +1,11 @@
  {
     "users": [
         {
-            
+            "id": 1,
+            "name": "Alex",
+            "sirname": "Zubritcke",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg", 
+            "balance": 1500
         }
     ]
  }
