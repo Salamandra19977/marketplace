@@ -7,7 +7,7 @@
            "photo_url": "https://png.klev.club/uploads/posts/2024-04/png-klev-club-jpcr-p-pechenka-png-16.png",
            "balance": 5000
          },
-         { "id": 1,
+         { "id": 2,
             "name": "Maksym",
             "sername": "Noskov",
             "photo_url": "https://tinyurl.com/bdhe4pf7",
@@ -15,7 +15,7 @@
         },
         
         {
-            "id": 1,
+            "id": 3,
             "name": "Alex",
             "sirname": "Zubritcke",
             "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg", 
@@ -23,7 +23,7 @@
         },
 
         {
-            "id": 1,
+            "id": 4,
             "name": "John",
             "surname": "Bastard",
             "photo_url": "https://img.tsn.ua/cached/033/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1200x630/9c/1c/f04ed358d3106bec3b54ca9212381c9c.jpeg",
