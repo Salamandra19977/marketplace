@@ -6,7 +6,8 @@
            "username": "Mykhavko",
            "photo_url": "https://png.klev.club/uploads/posts/2024-04/png-klev-club-jpcr-p-pechenka-png-16.png",
            "balance": "5000"
-            "id": 1,
+         },
+         { "id": 1,
             "name": "Maksym",
             "sername": "Noskov",
             "photo_url": "https://tinyurl.com/bdhe4pf7",
