@@ -1,6 +1,28 @@
  {
     "users": [
         {
+           "id": 1,
+           "name": "Nikita",
+           "username": "Mykhavko",
+           "photo_url": "https://png.klev.club/uploads/posts/2024-04/png-klev-club-jpcr-p-pechenka-png-16.png",
+           "balance": 5000
+         },
+         { "id": 1,
+            "name": "Maksym",
+            "sername": "Noskov",
+            "photo_url": "https://tinyurl.com/bdhe4pf7",
+            "balance": 800
+        },
+        
+        {
+            "id": 1,
+            "name": "Alex",
+            "sirname": "Zubritcke",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg", 
+            "balance": 1500
+        },
+
+        {
             "id": 1,
             "name": "John",
             "surname": "Bastard",
