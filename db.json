@@ -2,11 +2,6 @@
     "users": [
         {
             "id": 1,
-            "name": "Maksym",
-            "sername": "Noskov",
-            "photo_url": "https://tinyurl.com/bdhe4pf7",
-            "balance": 800
-            "id": 1,
             "name": "John",
             "surname": "Bastard",
             "photo_url": "https://img.tsn.ua/cached/033/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1200x630/9c/1c/f04ed358d3106bec3b54ca9212381c9c.jpeg",
