@@ -43,18 +43,15 @@
             "username": "rizhko",
             "photo_url": "https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg",
             "balance": 55911
+        },
+        {
+            "id": 4,
+            "name": "John",
+            "surname": "Bastard",
+            "photo_url": "https://img.tsn.ua/cached/033/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1200x630/9c/1c/f04ed358d3106bec3b54ca9212381c9c.jpeg",
+            "balance": 100000
         }
-    
     ],
-
-    {
-        "id": 4,
-        "name": "John",
-        "surname": "Bastard",
-        "photo_url": "https://img.tsn.ua/cached/033/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1200x630/9c/1c/f04ed358d3106bec3b54ca9212381c9c.jpeg",
-        "balance": 100000
-    }
-],
 
 "products": [
     {
@@ -75,45 +72,43 @@
     },
 
     {
-    "id": 3,
-    "author_id": 3,
-    "author_name": "Nikita",
-    "photo_url": "https://12-24.com/upload/resize_cache/iblock/7ab/290_350_1/iaz8u7h3btqwn77lzboim2am7p03hyzn.jpg",
-    "product_name": "Rolex",
-    "description": "Rolex",
-    "price": 1000
+        "id": 3,
+        "author_id": 3,
+        "author_name": "Nikita",
+        "photo_url": "https://12-24.com/upload/resize_cache/iblock/7ab/290_350_1/iaz8u7h3btqwn77lzboim2am7p03hyzn.jpg",
+        "product_name": "Rolex",
+        "description": "Rolex",
+        "price": 1000
     
     },
 
     {
-    "id": 4,
-    "author_id": 4,
-    "author_name": "Nikita",
-    "photo_url": "https://images.prom.ua/5195535941_w640_h640_iphone-15-pro.jpg",
-    "product_name": "Iphone",
-    "description": "Iphone",
-    "price": "1350"
+        "id": 4,
+        "author_id": 4,
+        "author_name": "Nikita",
+        "photo_url": "https://images.prom.ua/5195535941_w640_h640_iphone-15-pro.jpg",
+        "product_name": "Iphone",
+        "description": "Iphone",
+        "price": "1350"
     },
 
     {
-    "id": 5,
-    "author_id": 5,
-    "author_name": "Nikita",
-    "photo_url": "https://pedegoelectricbikes.ca/wp-content/uploads/2022/07/Pedego-Avenue-Step-Thru-in-Ocean-Teal.jpg",
-    "product_name": "bike",
-    "description": "bike",
-    "price": "5000"
+        "id": 5,
+        "author_id": 5,
+        "author_name": "Nikita",
+        "photo_url": "https://pedegoelectricbikes.ca/wp-content/uploads/2022/07/Pedego-Avenue-Step-Thru-in-Ocean-Teal.jpg",
+        "product_name": "bike",
+        "description": "bike",
+        "price": "5000"
     },
     {
-     "id": 6,
-    "author_id": 6,
-    "author_name": "Darii",
-    "photo_url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/few_off/sian-fkp-37/2023/over_d.jpg",
-    "product_name": "lamborghini",
-    "description": "Good car ",
-    "price": "5000"
+        "id": 6,
+        "author_id": 6,
+        "author_name": "Darii",
+        "photo_url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/few_off/sian-fkp-37/2023/over_d.jpg",
+        "product_name": "lamborghini",
+        "description": "Good car ",
+        "price": "5000"
         }
-    }
-         
-]
+    ]
 }
