@@ -22,6 +22,31 @@
         "balance": 1500
     },
 
+        {
+            "id": 4,
+            "name": "John",
+            "surname": "Bastard",
+            "photo_url": "https://img.tsn.ua/cached/033/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1200x630/9c/1c/f04ed358d3106bec3b54ca9212381c9c.jpeg",
+            "balance": 100000
+        },
+        {
+            "id": 5,
+            "name": "Darii",
+            "username": "DARZYY",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DKbNwwTB0FgWwhqx4YO6JMJoM3tof1xc9jfjWdgIYRkzJ0GnJLZl6d-2m7xkRutE12g&usqp=CAU",
+            "balance": 7777
+        }
+        ,
+        {
+            "id": 6,
+            "name": "kyrilo",
+            "username": "rizhko",
+            "photo_url": "https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg",
+            "balance": 55911
+        }
+    
+    ],
+    
     {
         "id": 4,
         "name": "John",
