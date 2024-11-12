@@ -46,7 +46,7 @@
         }
     
     ],
-    
+
     {
         "id": 4,
         "name": "John",
@@ -80,7 +80,9 @@
     "author_name": "Nikita",
     "photo_url": "https://12-24.com/upload/resize_cache/iblock/7ab/290_350_1/iaz8u7h3btqwn77lzboim2am7p03hyzn.jpg",
     "product_name": "Rolex",
-    "description": "Rolex"
+    "description": "Rolex",
+    "price": 1000
+    
     },
 
     {
@@ -89,7 +91,8 @@
     "author_name": "Nikita",
     "photo_url": "https://images.prom.ua/5195535941_w640_h640_iphone-15-pro.jpg",
     "product_name": "Iphone",
-    "description": "Iphone"
+    "description": "Iphone",
+    "price": "1350"
     },
 
     {
@@ -98,7 +101,8 @@
     "author_name": "Nikita",
     "photo_url": "https://pedegoelectricbikes.ca/wp-content/uploads/2022/07/Pedego-Avenue-Step-Thru-in-Ocean-Teal.jpg",
     "product_name": "bike",
-    "description": "bike"
+    "description": "bike",
+    "price": "5000"
     }
          
 ]
