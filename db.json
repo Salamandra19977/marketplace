@@ -29,5 +29,16 @@
             "photo_url": "https://img.tsn.ua/cached/033/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1200x630/9c/1c/f04ed358d3106bec3b54ca9212381c9c.jpeg",
             "balance": 100000
         }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "author_id": 2,
+            "author_name": "Nikita",
+            "product_img": "https://tinyurl.com/4x3nahj7",
+            "product_name": "Fullstack book",
+            "description": "Developers can keep up with the rapid changes in technology since full stack development requires a wide variety of abilities."
+        }
     ]
  }
