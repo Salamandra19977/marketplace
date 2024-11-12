@@ -30,13 +30,21 @@
             "balance": 100000
         }
     ],
-
+    
     "products": [
         {
             "id": 1,
+            "product_name": "Notebook",
+            "photo_url": "https://content2.rozetka.com.ua/goods/images/big/433813139.jpg",
+            "product_description": "Ноутбук ASUS TUF Gaming F15 FX507VV-LP212 (90NR0BV7-M00EY0) Mecha Gray / 15.6 IPS Full HD 144 Гц / Intel Core i7-13620H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 4060, 8 ГБ",
+            "author_id": 4
+        },
+
+        {
+            "id": 2,
             "author_id": 2,
-            "author_name": "Nikita",
-            "product_img": "https://tinyurl.com/4x3nahj7",
+            "author_name": "Maksym",
+            "photo_url": "https://tinyurl.com/4x3nahj7",
             "product_name": "Fullstack book",
             "description": "Developers can keep up with the rapid changes in technology since full stack development requires a wide variety of abilities."
         }
