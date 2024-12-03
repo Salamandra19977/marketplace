@@ -7,7 +7,8 @@
         "photo_url": "https://png.klev.club/uploads/posts/2024-04/png-klev-club-jpcr-p-pechenka-png-16.png",
         "balance": 5000
         },
-        { "id": 2,
+        { 
+        "id": 2,
         "name": "Maksym",
         "sername": "Noskov",
         "photo_url": "https://tinyurl.com/bdhe4pf7",
@@ -43,13 +44,6 @@
             "username": "rizhko",
             "photo_url": "https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg",
             "balance": 55911
-        },
-        {
-            "id": 4,
-            "name": "John",
-            "surname": "Bastard",
-            "photo_url": "https://img.tsn.ua/cached/033/tsn-84ee4f9844c21d3af2b3cfbad2c9c711/thumbs/1200x630/9c/1c/f04ed358d3106bec3b54ca9212381c9c.jpeg",
-            "balance": 100000
         }
     ],
 
@@ -59,7 +53,7 @@
         "product_name": "Notebook",
         "photo_url": "https://content2.rozetka.com.ua/goods/images/big/433813139.jpg",
         "product_description": "Ноутбук ASUS TUF Gaming F15 FX507VV-LP212 (90NR0BV7-M00EY0) Mecha Gray / 15.6 IPS Full HD 144 Гц / Intel Core i7-13620H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 4060, 8 ГБ",
-        "author_id": 4
+        "author_id": 1
     },
 
     {
